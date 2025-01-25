@@ -1,0 +1,60 @@
+# A plugin to handle subscribers and social media notifications.
+# Copyright (C) 2025 Plugin Pal.
+# This file is distributed under the same license as the PACKAGE package.
+# PLUGIN PAL <support@pluginpal.app>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-21 14:53-0500\n"
+"Last-Translator: Plugin Pal <support@pluginpal.app>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: subscribers-for-wordpress.php:12 subscribers-for-wordpress.php:29
+msgid "Subscribers Settings"
+msgstr ""
+
+#: subscribers-for-wordpress.php:13
+msgid "Subscribers"
+msgstr ""
+
+#: subscribers-for-wordpress.php:48
+msgid "Social Authentication"
+msgstr ""
+
+#: subscribers-for-wordpress.php:57
+msgid "Facebook Auth"
+msgstr ""
+
+#: subscribers-for-wordpress.php:65
+msgid "LinkedIn Auth"
+msgstr ""
+
+#: subscribers-for-wordpress.php:74
+msgid "Connect to Facebook"
+msgstr ""
+
+#: subscribers-for-wordpress.php:82
+msgid "Connect to LinkedIn"
+msgstr ""
+
+#: subscribers-for-wordpress.php:101
+msgid "Enter your email"
+msgstr ""
+
+#: subscribers-for-wordpress.php:101
+msgid "Subscribe"
+msgstr ""
+
+#: subscribers-for-wordpress.php:127
+msgid "New Post: %s"
+msgstr ""
+
+#: subscribers-for-wordpress.php:130
+msgid "Read more"
+msgstr ""
